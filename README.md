@@ -1,4 +1,4 @@
 # 550_Project
 Datasets and Additional Visualizations 
 
-'add files via upload' is the dataset
+See Project_writeup.pdf for project description and analysis.
